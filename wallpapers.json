@@ -1,46 +1,54 @@
 {
    "wallpapers": [
       {
-         "author": "Tom Wellington",
-         "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
-         "name": "East Branch",
-         "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
+         "author": "Alexandre Casuette",
+         "url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Alexandre%20Croussette.jpg"
+         "thumbnail": "https://raw.githubusercontent.com/mazlum298/mcd/master/Alexandre%20Croussette_thumb.jpg"
       },
       {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
-         "name": "Heads Up",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+         "author": "Antonio Lainez",
+         "url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Antonio%20Lainez.jpg",
+         "thumbnail": "https://raw.githubusercontent.com/mazlum298/mcd/master/Antonio%20Lainez_thumb.jpg"
       },
       {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
-         "name":" Flamingos",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+         "author": "Baptist Standaert",
+         "url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Baptist%20Standaert.jpg",
+         "thumbnail": "https://raw.githubusercontent.com/mazlum298/mcd/master/Baptist%20Standaert_thumb.jpg"
       },
       {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/forest_one.png",
-         "name": "Forest",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/forest_one_thumb.jpg"
+         "author": "Beasty",
+         "url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Beasty.jpg",
+         "thumbnail": "https://raw.githubusercontent.com/mazlum298/mcd/master/Beasty_thumb.jpg"
       },
       {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/tree_farm.jpg",
-         "name": "Tree Farm",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/tree_farm_thumb.jpg"
+         "author": "Benjamin Voros",
+         "url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Benjamin%20voros.jpg",
+         "thumbnail": "https://raw.githubusercontent.com/mazlum298/mcd/master/Benjamin%20voros_thumb.jpg"
       },
       {
-         "author":"Tom Wellington",
-         "url":"https://github.com/afollestad/polar_json/raw/master/tree_tops.jpg",
-         "name":"Tree Tops",
-         "thumbnail":"https://github.com/afollestad/polar_json/raw/master/tree_tops_thumb.jpg"
+         "author":"Brandon Wong",
+         "url":"https://raw.githubusercontent.com/mazlum298/mcd/master/Brandon%20Wong.jpg",
+         "thumbnail":"https://raw.githubusercontent.com/mazlum298/mcd/master/Brandon%20Wong_thumb.jpg"
       },
       {
-         "author":"outhor",
-         "url":"url",
-         "name":"name",
-         "thumbnail":"https://github.com/afollestad/polar_json/raw/master/tree_tops_thumb.jpg"
+         "author":"Casey Homer",
+         "url":"https://raw.githubusercontent.com/mazlum298/mcd/master/Casey%20Homer.jpg",
+         "thumbnail":"https://raw.githubusercontent.com/mazlum298/mcd/master/Casey%20Homer_thumb.jpg"
+      },
+      {
+         "author":"Daiga Ellaby",
+         "url":"https://raw.githubusercontent.com/mazlum298/mcd/master/Daiga%20Ellaby.jpg",
+         "thumbnail":"https://raw.githubusercontent.com/mazlum298/mcd/master/Daiga%20Ellaby_thumb.jpg"
+      },
+      {
+         "author":"Elif Koyutürk",
+         "url":"https://raw.githubusercontent.com/mazlum298/mcd/master/Elif%20Koyut%C3%BCrk.jpg",
+         "thumbnail":"https://raw.githubusercontent.com/mazlum298/mcd/master/Elif%20Koyut%C3%BCrk_thumb.jpg"
+      },
+      {
+         "author":"Geran De klerk",
+         "url":"https://raw.githubusercontent.com/mazlum298/mcd/master/Geran%20De%20Klerk.jpg",
+         "thumbnail":"https://raw.githubusercontent.com/mazlum298/mcd/master/Geran%20De%20Klerk_thumb.jpg"
       }
    ]
 }
