@@ -1,54 +1,74 @@
 {
    "wallpapers": [
       {
-         "author": "Alexandre Casuette",
-         "url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Alexandre%20Croussette.jpg"
-         "thumbnail": "https://raw.githubusercontent.com/mazlum298/mcd/master/Alexandre%20Croussette_thumb.jpg"
+         "name": "001",
+			"author": "Alexandre Casuette",
+			"url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Alexandre%20Croussette.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
       },
       {
-         "author": "Antonio Lainez",
-         "url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Antonio%20Lainez.jpg",
-         "thumbnail": "https://raw.githubusercontent.com/mazlum298/mcd/master/Antonio%20Lainez_thumb.jpg"
+         "name": "002",
+			"author": "Antonio Lainez",
+			"url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Antonio%20Lainez.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
       },
       {
-         "author": "Baptist Standaert",
-         "url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Baptist%20Standaert.jpg",
-         "thumbnail": "https://raw.githubusercontent.com/mazlum298/mcd/master/Baptist%20Standaert_thumb.jpg"
+         "name": "003",
+			"author": "Baptist Standaert",
+			"url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Baptist%20Standaert.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
       },
       {
-         "author": "Beasty",
-         "url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Beasty.jpg",
-         "thumbnail": "https://raw.githubusercontent.com/mazlum298/mcd/master/Beasty_thumb.jpg"
+         "name": "004",
+			"author": "Beasty",
+			"url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Beasty.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
       },
       {
-         "author": "Benjamin Voros",
-         "url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Benjamin%20voros.jpg",
-         "thumbnail": "https://raw.githubusercontent.com/mazlum298/mcd/master/Benjamin%20voros_thumb.jpg"
+         "name": "005",
+			"author": "Benjamin Voros",
+			"url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Benjamin%20voros.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
       },
       {
-         "author":"Brandon Wong",
-         "url":"https://raw.githubusercontent.com/mazlum298/mcd/master/Brandon%20Wong.jpg",
-         "thumbnail":"https://raw.githubusercontent.com/mazlum298/mcd/master/Brandon%20Wong_thumb.jpg"
+         "name": "006",
+			"author": "Brandon Wong",
+			"url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Brandon%20Wong.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
       },
       {
-         "author":"Casey Homer",
-         "url":"https://raw.githubusercontent.com/mazlum298/mcd/master/Casey%20Homer.jpg",
-         "thumbnail":"https://raw.githubusercontent.com/mazlum298/mcd/master/Casey%20Homer_thumb.jpg"
+         "name": "007",
+			"author": "Casey Homer",
+			"url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Casey%20Homer.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
       },
       {
-         "author":"Daiga Ellaby",
-         "url":"https://raw.githubusercontent.com/mazlum298/mcd/master/Daiga%20Ellaby.jpg",
-         "thumbnail":"https://raw.githubusercontent.com/mazlum298/mcd/master/Daiga%20Ellaby_thumb.jpg"
+         "name": "008",
+			"author": "Daiga Ellaby",
+			"url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Daiga%20Ellaby.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
       },
       {
-         "author":"Elif Koyutürk",
-         "url":"https://raw.githubusercontent.com/mazlum298/mcd/master/Elif%20Koyut%C3%BCrk.jpg",
-         "thumbnail":"https://raw.githubusercontent.com/mazlum298/mcd/master/Elif%20Koyut%C3%BCrk_thumb.jpg"
+         "name": "009",
+			"author": "Elif Koyutürk",
+			"url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Elif%20Koyut%C3%BCrk.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
       },
       {
-         "author":"Geran De klerk",
-         "url":"https://raw.githubusercontent.com/mazlum298/mcd/master/Geran%20De%20Klerk.jpg",
-         "thumbnail":"https://raw.githubusercontent.com/mazlum298/mcd/master/Geran%20De%20Klerk_thumb.jpg"
+         "name": "010",
+			"author": "Geran De klerk",
+			"url": "https://raw.githubusercontent.com/mazlum298/mcd/master/Geran%20De%20Klerk.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
       }
    ]
 }
